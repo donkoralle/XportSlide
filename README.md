@@ -5,6 +5,8 @@ Sometimes you want to share the stuff you produced in PowerPoint with others. Be
 
 Since I ran quite often into such situations, I wrote a primitve Add-In to export the current slide to an PNG-image (to avoid JPG-like artefacts) with 150, 300, 600 dpi or any other resolution you like.
 
+May this Add-In spread nice slides, peace, love and harmony!
+
 ## Before you start
 
 This Add-In is developed on a Win10 machine running MS Office 10 and 16. For this setup the Add-Ins should work without problems (hopefully).
