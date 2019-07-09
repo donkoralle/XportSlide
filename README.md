@@ -29,9 +29,11 @@ First of all, download the Add-In (.ppam file) and store it somewhere on your ha
 
 C:\Users\YOUR USERNAME\AppData\Roaming\Microsoft\AddIns
 
-In case you can not see the "AppData" folder, you have to activate "" in the explorer:
+In case you can not see the "AppData" folder, you have to activate "View - Hidden items" in your explorer:
 
 ![How to install the Add-In](documentation/show_hidden.png)
+
+After storing the Add-In (.ppam) file in the "AddIns" folder you can close your explorer, fire up PowerPoint and choose "File - Options - Add-Ins":
 
 ![How to install the Add-In](documentation/add_in_1.png)
 
