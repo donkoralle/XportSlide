@@ -33,13 +33,19 @@ In case you can not see the "AppData" folder, you have to activate "View - Hidde
 
 ![How to install the Add-In](documentation/show_hidden.png)
 
-After storing the Add-In (.ppam) file in the "AddIns" folder you can close your explorer, fire up PowerPoint and choose "File - Options - Add-Ins":
+After storing the Add-In (.ppam) file in the "AddIns" folder you can close your explorer, fire up PowerPoint and choose "File - Options - Add-Ins" (Sorry for the german interface):
 
 ![How to install the Add-In](documentation/add_in_1.png)
 
+At the bottom of the options-window you will find the "Manage" list, where you select "PowerPoint Add-ins" and click "Go".
+
 ![How to install the Add-In](documentation/add_in_2.png)
 
+In the Add-Ins dialog box, click "Add new".
+
 ![How to install the Add-In](documentation/add_in_3.png)
+
+The "Add New PowerPoint Add-In" dialog box should directly drop you in your personal Office "Addins" folder, so you should directly see the Add-In. Otherwise you can navigate to the location of the Add-In, select it and then click "OK".
 
 ![How to install the Add-In](documentation/add_in_4.png)
 
