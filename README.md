@@ -9,6 +9,8 @@ Since I ran quite often into such situations, I wrote a primitve Add-In to expor
 
 [alt](/Documentation/add in 1.png)
 
+![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
+
 
 ## Installing the Add-In
 
