@@ -7,6 +7,14 @@ Since I ran quite often into such situations, I wrote a primitve Add-In to expor
 
 ## How to use it
 
-![test](documentation/add_in_1.png)
+![test](documentation/add_in_6.png)
 
-test
+![test](documentation/add_in_7.png)
+
+![test](documentation/add_in_8.png)
+
+![test](documentation/add_in_9.png)
+
+## How to install it
+
+
