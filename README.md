@@ -25,6 +25,12 @@ The exported image of the current slide is stored in the same folder as the pres
 
 ## How to install it
 
+First of all, download the Add-In (.ppam file) and store it somewhere on your harddrive. Technically, an Add-In can be executed from nearly every place on your computer. To have an oversight on your Add-Ins I suggest to store the it in the Microsoft Office's "AddIns" folder, which you can find in your homefolder:
+
+C:\Users\YOUR USERNAME\AppData\Roaming\Microsoft\AddIns
+
+In case you can not see the "AppData" folder, you have to activate "" in the explorer:
+
 ![How to install the Add-In](documentation/show_hidden.png)
 
 ![How to install the Add-In](documentation/add_in_1.png)
