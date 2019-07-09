@@ -13,7 +13,7 @@ And no: I did not test it on Mac Office etc. - good luck there ;-)
 
 ## How to use it
 
-After ![installing the Add-In](https://github.com/donkoralle/XportSlide/blob/update-ReadMe/README.md#how-to-install-it) the "Slide 2 PNG" button appears under the "Add-Ins" ribbon:
+After ![installing the Add-In](#how-to-install-it) the "Slide 2 PNG" button appears under the "Add-Ins" ribbon:
 
 ![How to use the Add-In](documentation/add_in_6.png)
 
