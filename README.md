@@ -1,9 +1,15 @@
 # XportSlide
-A PowerPoint Add-In to export the current slide in high resolution (150, 300 &amp; 600 dpi) PNG-images
+A PowerPoint Add-In (Office 2010 and up) to export the current slide in a high resolution (150, 300 &amp; 600 dpi) PNG-image.
 
-Sometimes you want to share the stuff you produced in PowerPoint with others. Be it for a book our journal article, hand on a figure to a collegue etc. Taking a screenshot or using PowerPoints iternal export functionality often does not give you the control over the quality of the exported slide you want.
+Sometimes you want to share the stuff you produced in PowerPoint with others. Be it for a book our journal article, hand on a figure to a collegue etc. To do so, taking a screenshot or using PowerPoints iternal export functionality might not give you the control over the quality of the exported slide you want. 
 
-Since I ran quite often into such situations, I wrote a primitve Add-In to export the current slide to an PNG-image with 150, 300, 600 dpi or any other resolution you like. I chose PNG-format to avoid JPG-like artefacts on exported images. 
+Since I ran quite often into such situations, I wrote a primitve Add-In to export the current slide to an PNG-image with 150, 300, 600 dpi or any other resolution you like. I chose PNG-format to avoid JPG-like artefacts on exported images.
+
+## Before you start
+
+This Add-In is developed on a Win10 machine running MS Office 10 and 16. For this setup the Add-Ins should work without problems (hopefully).
+
+And no: I did not test it on Mac Office etc. - good luck there ;-)
 
 ## How to use it
 
