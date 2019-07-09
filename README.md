@@ -11,7 +11,7 @@ After installing the Add-In the "Slide 2 PNG" button appears under the "Add-In" 
 
 ![test](documentation/add_in_6.png)
 
-Clicking this button activates an input box for defining the width of the exported slide. You can enter any resolution you like, corresponding resolution for 150 (default), 300 and 600 dpi are shown ontop the inputbox. Hitting "OK" starts the export process.
+Clicking this button activates an input box for defining the width of the exported slide. You can enter any resolution you like, corresponding resolution for 150 (default), 300 and 600 dpi are shown ontop the inputbox. Hitting "OK" starts the export process. After successfully writing this export file a confirmation dialog is shown:
 
 ![test](documentation/add_in_7.png)
 
