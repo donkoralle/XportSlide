@@ -1,0 +1,35 @@
+Sub Xport2png()
+    Dim ExportPath As String   ' drive:\to\path to export to
+    Dim Pixwidth As Integer    ' width of exported image
+    Dim Pixheight As Integer
+    Dim myWidth As Integer
+    Dim oSlideZoll As Single
+    Dim oSlide As Slide
+
+    On Error GoTo Fehler
+    
+    ExportPath = ActivePresentation.Path & "\"
+    oSlideZoll = ActivePresentation.PageSetup.SlideWidth / 72
+    ' Set height proportional to slide width
+    Pixheight = (Pixwidth * ActivePresentation.PageSetup.SlideHeight) / ActivePresentation.PageSetup.SlideWidth
+        
+    Pixwidth = InputBox("Width for 150 dpi: " & oSlideZoll * 150 & " px" & vbCrLf & _
+    "Width for 300 dpi: " & oSlideZoll * 300 & " px" & vbCrLf & _
+    "Width for 600 dpi: " & oSlideZoll * 600 & " px" _
+    , "Width for xported slide in px", oSlideZoll * 150)
+    
+    MsgBox (Pixwidth)
+    Application.inp
+    Set oSlide = ActiveWindow.View.Slide
+    With oSlide
+        .Export ExportPath & "Slide" & CStr(.SlideIndex) & ".png", "PNG", Pixwidth, Pixheight
+    End With
+    
+    MsgBox ("Slide xported.")
+    Exit Sub
+
+
+Fehler:
+    MsgBox Err.Number & ": " & Err.Description
+    Exit Sub
+End Sub
