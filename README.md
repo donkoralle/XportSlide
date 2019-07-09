@@ -9,20 +9,32 @@ Since I ran quite often into such situations, I wrote a primitve Add-In to expor
 
 After installing the Add-In the "Slide 2 PNG" button appears under the "Add-In" ribbon:
 
-![test](documentation/add_in_6.png)
+![How to use the Add-In](documentation/add_in_6.png)
 
 Clicking this button activates an input box for defining the width of the exported slide. You can enter any resolution you like, corresponding resolution for 150 (default), 300 and 600 dpi are shown ontop the inputbox. Hitting "OK" starts the export process. 
 
-![test](documentation/add_in_7.png)
+![How to use the Add-In](documentation/add_in_7.png)
 
 After successfully writing this export file a confirmation dialog is shown:
 
-![test](documentation/add_in_8.png)
+![How to use the Add-In](documentation/add_in_8.png)
 
 The exported image of the current slide is stored in the same folder as the presentation. To identifiy multiple exported slides each slide is given its slide number as name. In this example I exported slides 1 and 2 from the presentation "Test.pptx":
 
-![test](documentation/add_in_9.png)
+![How to use the Add-In](documentation/add_in_9.png)
 
 ## How to install it
+
+![How to install the Add-In](documentation/show_hidden.png)
+
+![How to install the Add-In](documentation/add_in_1.png)
+
+![How to install the Add-In](documentation/add_in_2.png)
+
+![How to install the Add-In](documentation/add_in_3.png)
+
+![How to install the Add-In](documentation/add_in_4.png)
+
+![How to install the Add-In](documentation/add_in_5.png)
 
 
