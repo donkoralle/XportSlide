@@ -49,6 +49,10 @@ The "Add New PowerPoint Add-In" dialog box should directly drop you in your pers
 
 ![How to install the Add-In](documentation/add_in_4.png)
 
+After that a security notice appears asking you wheater you want to activate the Add-Ins Macros or not. Click "Enable Macros", and then "Close". After that the Add-In should show up in the list of activated Add-Ins and you can click "Close" and finish the installation process.
+
 ![How to install the Add-In](documentation/add_in_5.png)
+
+
 
 
