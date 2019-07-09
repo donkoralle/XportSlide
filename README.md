@@ -7,6 +7,8 @@ Since I ran quite often into such situations, I wrote a primitve Add-In to expor
 
 ## How to use it
 
+After installing the Add-In the "" button appears under the "Add-In" ribbon:
+
 ![test](documentation/add_in_6.png)
 
 ![test](documentation/add_in_7.png)
