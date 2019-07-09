@@ -7,7 +7,7 @@ Since I ran quite often into such situations, I wrote a primitve Add-In to expor
 
 ## How to use it
 
-![alt](Documentation/add in 1.png)
+[alt](Documentation/add in 1.png)
 
 
 ## Installing the Add-In
